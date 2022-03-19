@@ -5,6 +5,8 @@
 #If you want to crack into someone's account, you must have the permission of the user. 
 #InfosecHacker is not responsible.
 
+#For Python 2
+
 
 import sys
 import random
